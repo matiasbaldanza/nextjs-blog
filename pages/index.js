@@ -30,7 +30,9 @@ export default function Home({ allPostsData }) {
           <Link 
             href="https://nextjs.org/learn"
             target="_blank"
-          >Next.js tutorial</Link>.)
+          >Next.js tutorial</Link>.) 
+          <br />
+          It will be deleted in 3... 2... 1...
         </p>
       </section>
       <section>
