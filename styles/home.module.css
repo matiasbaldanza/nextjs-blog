@@ -15,7 +15,7 @@
 .title a:hover,
 .title a:focus,
 .title a:active {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .title {
